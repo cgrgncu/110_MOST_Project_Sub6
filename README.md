@@ -32,9 +32,10 @@
 ![image](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%9C%96%E7%89%87/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%9C%B0%E8%AA%BF%E6%89%80/(1)%E7%B6%93%E6%BF%9F%E9%83%A8%E5%9C%B0%E8%AA%BF%E6%89%80-%E5%B7%A5%E7%A0%94%E9%99%A2-109%E5%B9%B4%E5%A4%A7%E5%B1%AF%E7%81%AB%E5%B1%B1%E7%BE%A4%E5%9C%B0%E5%8D%80%E5%9C%B0%E7%86%B1%E6%8E%A2%E5%8B%98%E8%B3%87%E6%96%99%E5%9F%B7%E8%A1%8C%E6%91%98%E8%A6%81(%E5%9C%965-18).png) 
       + 地熱探勘平台API提供測站位置資訊:  
         + 部分疑似錯誤: 
+          + 圖台顯示49個站，API提供53個站。
           + #12，TVG2010應為報告書上寫的TVG210。
-          + #9#10，報告書上是選TVG208a，但網頁上是TVG208，API提供的TVG208a寫地點是台東金鋒應該是誤植。
-          + #50#51，都是TVG246，位置完全相同，但用的儀器不同。
+          + #9#10，報告書上是選TVG208a，但網頁圖台上是TVG208，API提供的TVG208a寫地點是台東金鋒應該是誤植。
+          + #50#51，API提供兩個都是TVG246，位置完全相同，但用的儀器不同。
       
 |Index|Longitude[degrees]|Latitude[degrees]|Altitude[m]|TWD97_E[m]|TWD97_N[m]|SiteName|Auditor|Date     |Loaction|Operator|DievceNo|DievceSN|
 |-----|------------------|-----------------|-----------|----------|----------|--------|-------|---------|--------|--------|--------|--------|
