@@ -1,6 +1,9 @@
 # 110_MOST_Project_Sub6
 110年 科技部計畫-臺北都會災防科學任務(II)-子計畫6 筆記
 
+> 編輯者: HsiupoYeh  
+> 最後更新日期: 2022-03-28  
+
 ### 網路資源
   + 經濟部中央地質調查所 研究成果
     + 經濟部中央地質調查所 官方網頁(https://www.moeacgs.gov.tw/)
@@ -12,6 +15,7 @@
     + 成果報告查詢: https://www.grb.gov.tw/GRB/orgSearch.jsp?planOrgan=IAE1
   + 地熱
     + 官方網站(網頁異常時請手動複製連結再貼到網址列): https://www.geothermal-taiwan.org.tw  
+  > 看網頁設計風格，地熱探勘資訊平台與地熱網頁都是工研院製作的。
 
 ### 過去研究成果報告書
 ### 2021年
@@ -323,12 +327,13 @@
     ![image](https://raw.githubusercontent.com/cgrgncu/110_MOST_Project_Sub6/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80/(9)%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80-%E5%B7%A5%E7%A0%94%E9%99%A2-102%E5%B9%B4%E5%BA%A6%E3%80%8C%E6%B7%B1%E5%B1%A4%E5%9C%B0%E7%86%B1%E7%99%BC%E9%9B%BB%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC%E8%A8%88%E7%95%AB%E3%80%8D(%E5%9C%969).png)
 
 ### 2012年
-  + [國立中央大學-葉秀柏-99年碩士論文「應用大地電磁法研究台灣地區之電性構造」.pdf](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80/(9)%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80-%E5%B7%A5%E7%A0%94%E9%99%A2-102%E5%B9%B4%E5%BA%A6%E3%80%8C%E6%B7%B1%E5%B1%A4%E5%9C%B0%E7%86%B1%E7%99%BC%E9%9B%BB%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC%E8%A8%88%E7%95%AB%E3%80%8D.pdf) 
+  + [(10)經濟部能源局-工研院-101年度「地熱能源永續利用及深層地熱發電」](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80/(9)%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80-%E5%B7%A5%E7%A0%94%E9%99%A2-102%E5%B9%B4%E5%BA%A6%E3%80%8C%E6%B7%B1%E5%B1%A4%E5%9C%B0%E7%86%B1%E7%99%BC%E9%9B%BB%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC%E8%A8%88%E7%95%AB%E3%80%8D.pdf) 
     + P.150 提到大地電磁法於大屯山地區規劃測點，間距預計1.5公里。沒有提到遠端參考站資訊。看起來只有規劃沒有成果。
 
-### 2010年
-    + [國立中央大學-葉秀柏-99年碩士論文「應用大地電磁法研究台灣地區之電性構造」.pdf](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8-%E8%91%89%E7%A7%80%E6%9F%8F-99%E5%B9%B4%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E3%80%8C%E6%87%89%E7%94%A8%E5%A4%A7%E5%9C%B0%E9%9B%BB%E7%A3%81%E6%B3%95%E7%A0%94%E7%A9%B6%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%8D%80%E4%B9%8B%E9%9B%BB%E6%80%A7%E6%A7%8B%E9%80%A0%E3%80%8D.pdf) 
+### 2010年  
+  + [國立中央大學-葉秀柏-99年碩士論文「應用大地電磁法研究台灣地區之電性構造」.pdf](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8-%E8%91%89%E7%A7%80%E6%9F%8F-99%E5%B9%B4%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E3%80%8C%E6%87%89%E7%94%A8%E5%A4%A7%E5%9C%B0%E9%9B%BB%E7%A3%81%E6%B3%95%E7%A0%94%E7%A9%B6%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%8D%80%E4%B9%8B%E9%9B%BB%E6%80%A7%E6%A7%8B%E9%80%A0%E3%80%8D.pdf) 
     + P.10 提到2006年起使用澎湖站作為遠端參考站。沒有詳細測站位置清單。
+    + 要從我備份的原始資料中讀出來。
     
     ![image](https://raw.githubusercontent.com/cgrgncu/110_MOST_Project_Sub6/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8-%E8%91%89%E7%A7%80%E6%9F%8F-99%E5%B9%B4%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87%E3%80%8C%E6%87%89%E7%94%A8%E5%A4%A7%E5%9C%B0%E9%9B%BB%E7%A3%81%E6%B3%95%E7%A0%94%E7%A9%B6%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%8D%80%E4%B9%8B%E9%9B%BB%E6%80%A7%E6%A7%8B%E9%80%A0%E3%80%8D(%E5%9C%962.1).png)
     
