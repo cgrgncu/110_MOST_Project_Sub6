@@ -327,7 +327,7 @@
 
 ### 2009年
   + [(G0052)內政部營建署陽管處-地物學會(含中央大學)-98年度「大屯火山群環境監測計畫」.pdf](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2/(G0052)%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2%E9%99%BD%E7%AE%A1%E8%99%95-%E5%9C%B0%E7%89%A9%E5%AD%B8%E6%9C%83(%E5%90%AB%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8)-98%E5%B9%B4%E5%BA%A6%E3%80%8C%E5%A4%A7%E5%B1%AF%E7%81%AB%E5%B1%B1%E7%BE%A4%E7%92%B0%E5%A2%83%E7%9B%A3%E6%B8%AC%E8%A8%88%E7%95%AB%E3%80%8D.pdf) 
-    + P.39 提到使用MTU-5A蒐集共計8站(編號#1~#8)，請注意站名與前一年重複，資料蒐集時間長度:3天。使用澎湖站作為遠端參考站。
+    + P.39 提到使用MTU-5A蒐集共計8站(編號#1~#8)，請注意站名與前一年重複，資料蒐集時間長度:3天。使用澎湖站作為遠端參考站。沒有詳細測站位置清單。
   
     ![image](https://raw.githubusercontent.com/cgrgncu/110_MOST_Project_Sub6/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2/(G0052)%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2%E9%99%BD%E7%AE%A1%E8%99%95-%E5%9C%B0%E7%89%A9%E5%AD%B8%E6%9C%83(%E5%90%AB%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8)-98%E5%B9%B4%E5%BA%A6%E3%80%8C%E5%A4%A7%E5%B1%AF%E7%81%AB%E5%B1%B1%E7%BE%A4%E7%92%B0%E5%A2%83%E7%9B%A3%E6%B8%AC%E8%A8%88%E7%95%AB%E3%80%8D(%E5%9C%9628).png)
   
