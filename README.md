@@ -324,6 +324,12 @@
 ### 2012年
   + [(10)經濟部能源局-工研院-101年度「地熱能源永續利用及深層地熱發電」.pdf](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80/(9)%E7%B6%93%E6%BF%9F%E9%83%A8%E8%83%BD%E6%BA%90%E5%B1%80-%E5%B7%A5%E7%A0%94%E9%99%A2-102%E5%B9%B4%E5%BA%A6%E3%80%8C%E6%B7%B1%E5%B1%A4%E5%9C%B0%E7%86%B1%E7%99%BC%E9%9B%BB%E6%8A%80%E8%A1%93%E7%A0%94%E7%99%BC%E8%A8%88%E7%95%AB%E3%80%8D.pdf) 
     + P.150 提到大地電磁法於大屯山地區規劃測點，間距預計1.5公里。沒有提到遠端參考站資訊。看起來只有規劃沒有成果。
+
+### 2009年
+  + [(G0052)內政部營建署陽管處-地物學會(含中央大學)-98年度「大屯火山群環境監測計畫」.pdf](https://github.com/cgrgncu/110_MOST_Project_Sub6/blob/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2/(G0052)%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2%E9%99%BD%E7%AE%A1%E8%99%95-%E5%9C%B0%E7%89%A9%E5%AD%B8%E6%9C%83(%E5%90%AB%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8)-98%E5%B9%B4%E5%BA%A6%E3%80%8C%E5%A4%A7%E5%B1%AF%E7%81%AB%E5%B1%B1%E7%BE%A4%E7%92%B0%E5%A2%83%E7%9B%A3%E6%B8%AC%E8%A8%88%E7%95%AB%E3%80%8D.pdf) 
+    + P.39 提到使用MTU-5A蒐集共計8站(編號#1~#8)，請注意站名與前一年重複，資料蒐集時間長度:3天。使用澎湖站作為遠端參考站。
+  
+    ![image](https://raw.githubusercontent.com/cgrgncu/110_MOST_Project_Sub6/main/%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB/%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2/(G0052)%E5%85%A7%E6%94%BF%E9%83%A8%E7%87%9F%E5%BB%BA%E7%BD%B2%E9%99%BD%E7%AE%A1%E8%99%95-%E5%9C%B0%E7%89%A9%E5%AD%B8%E6%9C%83(%E5%90%AB%E4%B8%AD%E5%A4%AE%E5%A4%A7%E5%AD%B8)-98%E5%B9%B4%E5%BA%A6%E3%80%8C%E5%A4%A7%E5%B1%AF%E7%81%AB%E5%B1%B1%E7%BE%A4%E7%92%B0%E5%A2%83%E7%9B%A3%E6%B8%AC%E8%A8%88%E7%95%AB%E3%80%8D(%E5%9C%9628).png)
   
 
 ### 2008年
